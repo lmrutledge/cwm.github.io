@@ -1,0 +1,12 @@
+name: "checkwomensmath"
+navbar:
+  title: "Check Women's Math"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-github fa-lg
+      href: http://github.com/lmrutledge/
+output:
+  html_document:
+    theme: lumen
