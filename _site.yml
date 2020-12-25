@@ -9,9 +9,7 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-  right: 
-    - icon: fa-github fa-lg
-      href: http://github.com/lmrutledge/
 output:
   html_document:
-    theme: lumen
+    theme: cosmo
+    highlight: textmate

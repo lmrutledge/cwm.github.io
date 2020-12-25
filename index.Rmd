@@ -1,5 +1,8 @@
 ---
 title: "Check Women's Math"
+output:
+  html_document:
+    toc_float: false
 ---
 
 <img src="girlmath.png" style="width:50%">
