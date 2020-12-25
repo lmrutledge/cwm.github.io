@@ -1,8 +1,9 @@
-name: "checkwomensmath"
+name: "cwn.github.io"
 navbar:
   title: "Check Women's Math"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
   right: 
     - icon: fa-github fa-lg
