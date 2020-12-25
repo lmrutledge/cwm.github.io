@@ -4,6 +4,6 @@ output:
   html_document:
     toc_float: false
 ---
-
-<img src="girlmath.png" style="width:50%">
-
+<a href="https://xkcd.com/385/">
+<img src="https://imgs.xkcd.com/comics/how_it_works.png" style="vertical-align:middle">
+</a>
