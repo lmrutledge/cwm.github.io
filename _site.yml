@@ -1,4 +1,8 @@
+
 name: "cwn.github.io"
+output_dir: "."
+
+
 navbar:
   title: "Check Women's Math"
   left:
